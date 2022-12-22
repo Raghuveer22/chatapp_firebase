@@ -1,0 +1,5 @@
+1. Adding Firebase to Android
+2.   to web
+com.example.chatapp_firebase
+adding dependencies to pubspec
+cloud_firestore,firebase_auth,firebase_core,shared_preferences
